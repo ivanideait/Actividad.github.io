@@ -1,17 +1,23 @@
 ---
 layout: post
-title: ACTIVIDAD 1 DESARROLLO DE APLICACIONES
+title: ACTIVIDAD 1 Islandia, un pais de hielo y fuego
 
 ---
 
-Este Blog está dedicado al desarrollo de aplicaciones en red. Su función será la de recoger todas las intervenciones de los estudiantes que están cursando esta asignatura.
+Este Blog está dedica unas líneas a un pais superlativo. Repleto de naturaleza salvaje y paisajes que te hacen estar en conctacto con el hielo y también el fuego.
 
 
 
-El desarrollo de aplicaciones es una actividad con futuro
+En Islandia, las cascadas son un fenómeno natural abundante. Las puede encontrar de aguas cristalinas o de aguas muy turbias. Estas últimas lo son así por los sedimentos arrastrados por el agua. Cuando te encuentras una cascada turbia, de color gris oscuro es porque el agua que estás viendo procede de las entrañas de un glaciar. 
 
-![desarrollo](/images/desarrollo.png)
+![cascadagris](/images/cascadagris.jpg)
 
-La usabilidad. Algo clave!
+Además puedes contrar estas cascadas en dos estados! líquido: Así es como están la mayor parte del año. Sólido! en pleno inverno es impresionante ver estas cascadas plenamente congeladas.
 
-![ux](/images/ux.png)
+![cascadahielo](/images/cascadahielo.jpg)
+
+Por otro lado, otro de los atractivos de esta isla es el poder disfrutar de sus aguas termales. Al ser una istla volcánica está repleta de Heisers y piscinas calientes.
+
+![termales](/images/termales.jpg)
+
+

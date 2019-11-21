@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ACTIVIDAD 1 Islandia, un pais de hielo y fuego
+title: Islandia, un pais de hielo y fuego
 
 ---
 
-Este Blog está dedica unas líneas a un pais superlativo. Repleto de naturaleza salvaje y paisajes que te hacen estar en conctacto con el hielo y también el fuego.
+Como actividad par ala asignatura de desarrollo de aplicaciones en red he preparado este Blog que dedica unas líneas a un pais superlativo. Repleto de naturaleza salvaje y paisajes que te hacen estar en conctacto con el hielo y también el fuego.
 
 
 
@@ -16,8 +16,10 @@ Además puedes contrar estas cascadas en dos estados! líquido: Así es como est
 
 ![cascadahielo](/images/cascadahielo.jpg)
 
-Por otro lado, otro de los atractivos de esta isla es el poder disfrutar de sus aguas termales. Al ser una istla volcánica está repleta de Heisers y piscinas calientes.
+Por otro lado, otro de los atractivos de esta isla es el poder disfrutar de sus aguas termales. Al ser una isla volcánica está repleta de Heisers y piscinas calientes.
 
 ![termales](/images/termales.jpg)
 
+Lo mejor para recorrer la isla es alquilar un coche todoterreno que te ayude a meterme por las muchas pistas de montaña que tiene. Así poder recorer la isla por todo su perímetro hará de tu viaje una experiencia inolvidable.
 
+![todoterreno](/images/todoterreno.png)

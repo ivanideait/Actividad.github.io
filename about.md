@@ -1,15 +1,13 @@
 ---
-layout: page
-title: About
+layout: Blog Actividad
+title: Iván
 permalink: /about/
 ---
 
-Some information about you!
+Estudiante de Grado en ingeniería Informática
 
-### More Information
+### Más Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Estoy desarrollando esta asignatura que curso en el primer cuatrimestre
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Contacto

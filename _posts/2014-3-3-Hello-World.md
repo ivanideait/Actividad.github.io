@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Este es el primer Título del Blog para la actividad de la UNIR
+title: BLOG ACTIVIDAD 1 - DESARROLLO DE APLICACIONES
 
 ---
 
-Este es el texto del primer post par la actividad de la UNIR. Espero que funcione! Como muestra añado una imagen del logo
-de Microsoft. Espero que os guste.
+Este Blog está dedicado al desarrollo de aplicaciones en red. Su función será la de recoger todas las intervenciones de los estudiantes que están cursando esta asignatura.
 
 
  

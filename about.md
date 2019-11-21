@@ -1,7 +1,7 @@
 ---
 layout: Blog Actividad
 title: Iván
-permalink: /about/
+permalink: /Acerda de mi/
 ---
 
 Estudiante de Grado en ingeniería Informática

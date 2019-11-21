@@ -20,6 +20,6 @@ Por otro lado, otro de los atractivos de esta isla es el poder disfrutar de sus 
 
 ![termales](/images/termales.jpg)
 
-Lo mejor para recorrer la isla es alquilar un coche todoterreno que te ayude a meterme por las muchas pistas de montaña que tiene. Así poder recorer la isla por todo su perímetro hará de tu viaje una experiencia inolvidable.
+Como consejo! Lo mejor para recorrer la isla es alquilar un coche todoterreno que te ayude a meterme por las muchas pistas de montaña que tiene. Así poder recorer la isla por todo su perímetro hará de tu viaje una experiencia inolvidable.
 
-![todoterreno](/images/todoterreno.png)
+Nota: Las imagenes han sido tomadas de diferentes blog de viajes.
